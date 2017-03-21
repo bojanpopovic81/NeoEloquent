@@ -1,6 +1,6 @@
 {
-    "name": "vinelab/neoeloquent",
-    "description": "Laravel wrapper for the Neo4j graph database REST interface",
+    "name": "bojanpopovic81/NeoEloquent",
+    "description": "A short description of what your package does",
     "keywords": ["laravel", "neo4j", "graph", "database", "neoeloquent"],
     "license": "MIT",
     "authors": [
